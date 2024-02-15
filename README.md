@@ -1,2 +1,3 @@
 # basic-banking-app
-created using Spring Boot and MySQL, Users can find account details by ID, list all accounts, and perform simple transactions like withdrawals and deposits. This straightforward application aims to streamline basic banking operations, ensuring a user-friendly experience while maintaining data reliability through MySQL integration.
+This <em> API</em> allows you to create, view, make deposits and withdraw, simulating what a banking system would do. For its construction, the data and mapper layers were used. <br>
+DTO acts as a data store from where the data is received and transferred to different layers and The mapper generates the boilerplate to execute queries and convert the results into application-level objects.
